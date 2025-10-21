@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 
 
-# 프로젝트 (https://tinyurl.com/y3uc39p)
+# 프로젝트 (https://tinyurl.com/y3uc39pk)
 
 
 
