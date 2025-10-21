@@ -12,8 +12,11 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 # 개인프로젝트
 
+
 <img width="653" height="439" alt="스크린샷 2025-10-21 151141" src="https://github.com/user-attachments/assets/95bae974-1d7f-4f9d-8edb-b7885f85f54c" />
 <img width="601" height="240" alt="스크린샷 2025-10-21 151207" src="https://github.com/user-attachments/assets/77175d3a-2b0a-4130-92ee-b8cc73759866" />
+
+# 여기에서 전반적,기본 기능 개발을 맡음 +추후의 업데이트사항및 수정을담당 
 <img width="602" height="559" alt="스크린샷 2025-10-21 151230" src="https://github.com/user-attachments/assets/a22510c8-1b0f-4c54-a02b-575c0280b246" />
 <img width="597" height="243" alt="스크린샷 2025-10-21 151246" src="https://github.com/user-attachments/assets/237f9cba-0828-497a-8d43-62bb2e60fa70" />
 <img width="741" height="645" alt="스크린샷 2025-10-21 151309" src="https://github.com/user-attachments/assets/ebe0b658-f622-45d1-b4d6-1d59a1f22942" />
