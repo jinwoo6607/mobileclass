@@ -6,6 +6,7 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 # 개인 프로젝트
 
+<img width="1098" height="585" alt="스크린샷 2025-10-21 152907" src="https://github.com/user-attachments/assets/04788af6-ad7c-44be-9c96-028505331f28" />
 
 
 <img width="757" height="391" alt="스크린샷 2025-10-21 152727" src="https://github.com/user-attachments/assets/71818ec2-605b-4d0e-b859-c34d61975a09" />
