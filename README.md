@@ -6,6 +6,7 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 # 개인 프로젝트
 
+![Uploading 스크린샷 2025-10-21 152727.png…]()
 
 
 
