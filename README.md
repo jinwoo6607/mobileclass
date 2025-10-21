@@ -34,4 +34,5 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 <img width="681" height="722" alt="스크린샷 2025-10-21 151517" src="https://github.com/user-attachments/assets/f718d26a-8c32-4c0c-9c5d-327117f25128" />
 <img width="549" height="737" alt="스크린샷 2025-10-21 151547" src="https://github.com/user-attachments/assets/847f8eba-e3bc-422f-8252-3751ebb88f96" />
 
+<img width="1916" height="1024" alt="dfe" src="https://github.com/user-attachments/assets/3e41376c-6efb-430d-b3c7-146804961044" />
 
