@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 # 개인 프로젝트
 
-<img width="1098" height="585" alt="스크린샷 2025-10-21 152907" src="https://github.com/user-attachments/assets/04788af6-ad7c-44be-9c96-028505331f28" />
+
 
 
 <img width="757" height="391" alt="스크린샷 2025-10-21 152727" src="https://github.com/user-attachments/assets/71818ec2-605b-4d0e-b859-c34d61975a09" />
@@ -14,6 +14,8 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 # 팀 프로젝트 (https://tinyurl.com/y3uc39pk)
 
+
+<img width="1098" height="585" alt="스크린샷 2025-10-21 152907" src="https://github.com/user-attachments/assets/28a51408-c0e3-4b46-b3be-06142c83bfb1" />
 
 
 <img width="594" height="404" alt="스크린샷 2025-10-21 152251" src="https://github.com/user-attachments/assets/47c4036f-d811-42f9-81e1-b77236197d16" />
