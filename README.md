@@ -5,6 +5,9 @@
 https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/edit?usp=sharing
 
 # 개인 프로젝트
+
+<img width="594" height="404" alt="스크린샷 2025-10-21 152251" src="https://github.com/user-attachments/assets/99c8b573-776b-45fb-8c7c-633b74c0bccf" />
+
 <img width="594" height="404" alt="스크린샷 2025-10-21 152251" src="https://github.com/user-attachments/assets/3aa11753-06b9-400c-acbc-1806700ecf5a" />
 
 
