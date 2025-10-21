@@ -1,12 +1,15 @@
-
+<img width="604" height="280" alt="image" src="https://github.com/user-attachments/assets/83961825-ce17-4a4f-abe7-0797612f2d6a" />
 # 개인프로젝트/ 팀프로젝트 /각장의실습 정리
 
 
 https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/edit?usp=sharing
 
+# 개인 프로젝트
+<img width="594" height="404" alt="스크린샷 2025-10-21 152251" src="https://github.com/user-attachments/assets/3aa11753-06b9-400c-acbc-1806700ecf5a" />
 
 
-# 프로젝트 (https://tinyurl.com/y3uc39pk)
+
+# 팀 프로젝트 (https://tinyurl.com/y3uc39pk)
 
 
 
