@@ -1,4 +1,4 @@
-<img width="604" height="280" alt="image" src="https://github.com/user-attachments/assets/83961825-ce17-4a4f-abe7-0797612f2d6a" />
+
 # 개인프로젝트/ 팀프로젝트 /각장의실습 정리
 
 
