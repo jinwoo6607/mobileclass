@@ -11,6 +11,12 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 <img width="757" height="391" alt="스크린샷 2025-10-21 152727" src="https://github.com/user-attachments/assets/71818ec2-605b-4d0e-b859-c34d61975a09" />
 
+시연영상.mp4
+
+
+https://github.com/user-attachments/assets/4468cd4d-a3d5-4b03-951a-7cccf8344323
+
+
 
 # 팀 프로젝트 (https://tinyurl.com/y3uc39pk)
 
