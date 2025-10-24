@@ -4,7 +4,7 @@
 
 https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/edit?usp=sharing
 
-# 개인 프로젝트
+# 개인 프로젝트 (https://tinyurl.com/4zex2xbz)
 
 
 
