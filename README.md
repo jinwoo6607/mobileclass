@@ -14,6 +14,12 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 # 팀 프로젝트 (https://tinyurl.com/y3uc39pk)
 
+시연영상 .mp4
+
+
+https://github.com/user-attachments/assets/ae24b949-a8e7-4c77-a888-db69ed238535
+
+
 
 <img width="1098" height="585" alt="스크린샷 2025-10-21 152907" src="https://github.com/user-attachments/assets/28a51408-c0e3-4b46-b3be-06142c83bfb1" />
 
