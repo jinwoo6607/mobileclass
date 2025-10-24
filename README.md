@@ -8,13 +8,16 @@ https://docs.google.com/document/d/1Rxz9YcEVqlDgapzOyB6h3VHy81dJc-waxM_qBPj50QA/
 
 
 
-
 <img width="757" height="391" alt="스크린샷 2025-10-21 152727" src="https://github.com/user-attachments/assets/71818ec2-605b-4d0e-b859-c34d61975a09" />
 
 시연영상.mp4
 
 
 https://github.com/user-attachments/assets/4468cd4d-a3d5-4b03-951a-7cccf8344323
+
+<img width="320" height="616" alt="ㄹㄹ" src="https://github.com/user-attachments/assets/581cfa8b-193f-44aa-b5d3-353cd9611144" />
+<img width="326" height="615" alt="ㄹㄹ2" src="https://github.com/user-attachments/assets/61954f84-d2c0-4bfd-b8e4-eda94c85bd98" />
+<img width="315" height="614" alt="ㄹㄹ3" src="https://github.com/user-attachments/assets/33ecece2-420f-416b-a772-8b48bf92363f" />
 
 
 
